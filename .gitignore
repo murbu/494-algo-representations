@@ -1,1 +1,23 @@
+# --- Python Environment ---
+.venv-1/
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# --- Data Files (Too large for GitHub) ---
+data/
+*.tsv
+*.parquet
+*.csv
+
+# --- Mac OS junk files ---
 .DS_Store
+
+# --- VS Code settings ---
+.vscode/
+
+# --- Logs ---
+all_logs.txt
+*.log
