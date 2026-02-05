@@ -1,1 +1,15 @@
+# system
 .DS_Store
+
+# data files
+*.csv
+*.tsv
+
+# data folder
+data/
+
+# env
+.env
+
+# outputs
+outputs/
